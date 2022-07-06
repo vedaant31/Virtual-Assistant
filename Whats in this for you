@@ -1,0 +1,17 @@
+We made a  program that understands natural language voice commands and completes tasks for a user. Three such real-life applications are Siri on Apple devices, Cortana on Microsoft Devices and Google Assistant on Android devices.
+We tried creating a mini version of 'ALEXA' that performs these significant functions and takes command from the user, for example, playing a song, displaying the current time and recognising famous personalities from Wikipedia. Also, changed it to a female voice.
+ The following libraries were used :
+
+	1	speech_recognition 
+	2	pyttsx3
+	3	pywhatkit
+	4	datetime
+	5	wikipedia
+	6	pyjokes
+
+Project created by - 
+
+Vedaant Sooden
+Thapar University
+Batch of'24
+vedaants51@gmail.com
